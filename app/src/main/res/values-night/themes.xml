@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.CounterCompose"
+        parent="@android:style/Theme.Material.Light.NoActionBar">
+        <!-- Customize your light theme here -->
+    </style>
+</resources>
